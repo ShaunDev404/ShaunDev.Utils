@@ -3,6 +3,10 @@
 ShaunDev.Utils Supplies a basic set of C# utilities (extensions, code contracts etc.).
 
 
+## NuGet
+[Nuget link](https://www.nuget.org/packages/ShaunDev.Utils)
+
+
 ## Version history
 
 ### v1.2.5 - 2016-11-03
