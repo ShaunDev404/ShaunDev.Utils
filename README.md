@@ -3,11 +3,11 @@
 ShaunDev.Utils supplies a basic set of C# utilities (extensions, code contracts etc.).
 
 
-## NuGet
+# NuGet
 [Nuget link](https://www.nuget.org/packages/ShaunDev.Utils)
 
 
-## Version history
+# Version history
 
 ### v1.2.6 - v1.2.9 [2016-11-07]
 - Added IsNull() extension on objects.
@@ -24,4 +24,9 @@ Supporting multiple target frameworks (4.5.2 and 4.0).
 ### pre v1.2.4
 Initial versions.
 
- - end of file -
+# Documentation
+
+Coming soon (I hope)
+
+
+...
