@@ -9,6 +9,9 @@ ShaunDev.Utils supplies a basic set of C# utilities (extensions, code contracts 
 
 ## Version history
 
+### v1.2.8 - 2016-11-07
+Added DateTimeExtensions.SqlDateTimeMaxValue and SqlDateTimeMinValue.
+
 ### v1.2.7 - 2016-11-07
 Added the .ToStringValue() extension for DateTime?.
 
