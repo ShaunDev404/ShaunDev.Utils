@@ -7,6 +7,10 @@ ShaunDev.Utils supplies a basic set of C# utilities (extensions, code contracts 
 
 # Version history
 
+### v1.2.11 [2016-11-15]
+- Added Enum extention for DisplayName attribute
+- Added String Extention ToHtml()
+
 ### v1.2.6 - v1.2.10 [2016-11-07]
 - Added IsNotNull() extension to objects.
 - Added IsNull() extension on objects.
