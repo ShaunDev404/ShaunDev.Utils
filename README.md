@@ -7,8 +7,9 @@ ShaunDev.Utils supplies a basic set of C# utilities (extensions, code contracts 
 
 # Version history
 
-### v1.2.13 [2016-11-29]
-- Added overload to Logger
+### v1.2.13 - v1.2.14 [2016-11-29]
+- Added overload to Logger constructor
+- Added overload to Logger.Error 
 
 ### v1.2.12 [2016-11-21]
 - Bugfix String Extension ToHtml()
